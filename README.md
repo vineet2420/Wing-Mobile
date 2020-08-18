@@ -12,31 +12,8 @@
 
 ## App Features
 
-<style>
-
-table {
-  width: 100%;
-  border: none;
-  border: 12px solid white;
-}
-
-th {
-  height: 50px;
-}
-
-td{
-width: 50%;
-background-color: #fff;
-}
-
-tr{
-	padding-bottom: 15px;
-}
-
-</style>
-
-<table style = "width: 100%; border: none; border: 12px solid white;">  
-<tr style = "padding-bottom: 15px;">
+<table>  
+<tr>
     <td><li>Quick Account Creation & Verification</li></td>
     <td><li>Add Friends Around the World</li></td>
   </tr>
@@ -79,12 +56,7 @@ tr{
 ## Under the Hood
 
 ### Languages and Environments
-<style>
-td{
-width: 20%;
-background-color: #fff;
-}
-</style>
+
 
 <table style = "margin-top: -18px;">  
 
