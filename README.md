@@ -34,8 +34,10 @@ tr{
 }
 
 </style>
-<center>
-<table>  
+
+<table style = "width: 100%;
+  border: none;
+  border: 12px solid white;">  
 <tr>
     <td><li>Quick Account Creation & Verification</li></td>
     <td><li>Add Friends Around the World</li></td>
@@ -71,7 +73,7 @@ tr{
     <td><li>Security - <strong>No Trace</strong> of Event After 1 Hour</li></td>
   </tr>
 </table>
-</center>
+
 <center>
 <img src="Assets/android_banner.png" />
 </center>
