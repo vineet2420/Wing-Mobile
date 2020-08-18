@@ -35,10 +35,8 @@ tr{
 
 </style>
 
-<table style = "width: 100%;
-  border: none;
-  border: 12px solid white;">  
-<tr>
+<table style = "width: 100%; border: none; border: 12px solid white;">  
+<tr style = "padding-bottom: 15px;">
     <td><li>Quick Account Creation & Verification</li></td>
     <td><li>Add Friends Around the World</li></td>
   </tr>
