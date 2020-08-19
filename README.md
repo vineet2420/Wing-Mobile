@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 > Wing Mobile is a sustainable cross platform mobile application revolutionizing the way events are created and experienced. <br /> 
-> As a result of the Covid-19 pandemic, in-person events were no longer feasible and the vast amount of virutal links stemming from different platforms became hard to manage. <br />
+> As a result of the Covid-19 pandemic, in-person events were no longer feasible and the vast amount of virtual links stemming from different platforms became hard to manage. <br />
 > Enter Wing - your pocket wingman for quickly creating virtual events and safely attending in-person gatherings.
 
 <center>
