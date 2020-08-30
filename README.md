@@ -101,8 +101,8 @@
 ## Download Links
 <table>  
 <tr>
-    <td><li><a href = "https://thewingapp.com/" target="_blank">Available on iOS</a></li></td>
-    <td><li><a href = "https://thewingapp.com/" target="_blank">Available on Android</a></li></td>
+    <td><li><a href = "https://apps.apple.com/us/app/id1478578042" target="_blank">Available on iOS</a></li></td>
+    <td><li><a href = "https://apps.apple.com/us/app/id1478578042" target="_blank">Available on Android</a></li></td>
   </tr>
   </table>
 
