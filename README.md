@@ -65,7 +65,7 @@
     <td><li>Java - Android Studio</li></td>
     <td><li>Node.js - Visual Studio</li></td>
   </tr>
-  </table>
+</table>
   
 
 ### Technologies
